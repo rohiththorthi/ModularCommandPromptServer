@@ -1,3 +1,2 @@
-# ModularCommandPromptServer
 # RunItUp
-## The Terminal. Reinvented.
+ModularCommandPromptServer : The Terminal. Reinvented.
