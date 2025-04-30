@@ -1,2 +1,3 @@
 # ModularCommandPromptServer
-My first Modular Command Prompt Server
+# RunItUp
+## The Terminal. Reinvented.
