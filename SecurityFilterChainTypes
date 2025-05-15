@@ -1,0 +1,8 @@
+Order      	Filter Class	                                                                           Responsibility
+
+1	       SecurityContextPersistenceFilter	                                                 Restores security context from the session
+2	       UsernamePasswordAuthenticationFilter	                                             Handles login form submission
+3	       BasicAuthenticationFilter	                                                      Handles HTTP Basic Auth
+4	       BearerTokenAuthenticationFilter (in Spring Security 5+)	                        Handles JWT or OAuth2 Bearer Tokens
+5	       ExceptionTranslationFilter	                                                      Catches security exceptions and sends error responses
+6	       FilterSecurityInterceptor	                                                      Makes the final access control (authorization) decision
